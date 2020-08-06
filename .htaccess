@@ -1,0 +1,2 @@
+RewriteEngine on
+Redirect /portfolio https://boris-huljak.netlify.app
